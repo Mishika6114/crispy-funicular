@@ -37,6 +37,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## About Me
+## ➡️ About Me
 
 Hi there! I'm **Mishika Agarwal**. I'm an  IT professional and a passionate Mechanical engineering student at IIT Guwahati with a growing passion for software development and technology-driven innovation. I’ve built projects in web development, SQL, and AI/ML, and I’m especially driven by the potential of tech to revolutionize the agri-tech sector. I'm excited to contribute to solutions that make agriculture smarter, more efficient, and more sustainable!
